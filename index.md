@@ -8,14 +8,14 @@ These guidelines were established with the expertise of the members of the NIH T
 ![MIAMM Table](https://user-images.githubusercontent.com/86632873/123714022-6d5d7700-d82a-11eb-8a59-6cf577908177.PNG)
 
 
-MHC molecules are described using the MHC Restriction ontology (MRO) <sup>1</sup>. <http://www.obofoundry.org/ontology/mro.html>
+MHC molecules are described using the MHC Restriction ontology (MRO)<sup>1</sup> <http://www.obofoundry.org/ontology/mro.html>
 
 Peptidic ligands are described using standard single letter abbreviations.
 
-Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI) <sup>2</sup>.
+Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI)<sup>2</sup>
 <https://www.ebi.ac.uk/chebi/>
 
-Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD) <sup>3</sup>.
+Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD)<sup>3</sup>
 <https://psidev.info/groups/protein-modifications>
 
 Modification position within a peptide ligand is to be described by the single letter abbreviation of the amino acid that is modified, followed by the position of that amino acid within the peptide (L2).
