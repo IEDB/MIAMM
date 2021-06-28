@@ -5,11 +5,11 @@ These guidelines were established with the expertise of the members of the NIH T
 
 ## Minimal Information about MHC Multimer (MIAM) components and how they are standardized.
 
-MHC molecules are described using the MHC Restriction ontology (MRO)1. <http://www.obofoundry.org/ontology/mro.html>
+MHC molecules are described using the MHC Restriction ontology (MRO)^1. <http://www.obofoundry.org/ontology/mro.html>
 
 Peptidic ligands are described using standard single letter abbreviations.
 
-Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI)2.
+Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI)^2.
 https://www.ebi.ac.uk/chebi/
 
 Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD)3.
