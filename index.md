@@ -5,22 +5,23 @@ These guidelines were established with the expertise of the members of the NIH T
 
 ## Minimal Information about MHC Multimer (MIAM) components and how they are standardized.
 
-MHC molecules are described using the MHC Restriction ontology (MRO)^1. <http://www.obofoundry.org/ontology/mro.html>
+
+
+MHC molecules are described using the MHC Restriction ontology (MRO) <sup>1</sup>. <http://www.obofoundry.org/ontology/mro.html>
 
 Peptidic ligands are described using standard single letter abbreviations.
 
 Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI)^2.
-https://www.ebi.ac.uk/chebi/
+<https://www.ebi.ac.uk/chebi/>
 
 Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD)3.
-https://psidev.info/groups/protein-modifications
+<https://psidev.info/groups/protein-modifications>
 
 Modification position within a peptide ligand is to be described by the single letter abbreviation of the amino acid that is modified, followed by the position of that amino acid within the peptide (L2).
 
 For assistance following this standard, see the Multimer Validator, a web tool which allows users to either a) parse the full name they generated, and validate that it fulfills the specifications, or b) compose the full name, based on the information added by the user. The tool ensures that the valid ontology terms and nomenclatures are enforced. It can be used by entering multimers into a web form or by uploading a spreadsheet.
 
-For questions or feedback, contact us: miammhelp@lji.org [TBC}
-
+For questions or feedback, contact us: <miammhelp@lji.org> [TBC]
 
 
 
