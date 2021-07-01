@@ -9,7 +9,7 @@ These guidelines were established with the expertise of the members of the NIH T
 
 | Component | Standardization method | Example | Standardized name |
 
-| :------------- | :----------------------:  | ---- -: | ----------------: |
+| --------- | ---------------------- | ------- | ----------------- |
 
 | MHC molecule | MHC Restriction Ontology (MRO)  | A0201 | HLA |
 
