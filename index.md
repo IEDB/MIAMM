@@ -9,7 +9,7 @@ These guidelines were established with the expertise of the members of the NIH T
 
 | Component | Standardization method | Example | Standardized name |
 | --------- | ---------------------- | ------- | ----------------- |
-| MHC molecule | MHC Restriction Ontology (MRO)  | A0201 | HLA |
+| MHC molecule | MHC Restriction Ontology (MRO)  | A0201 | HLA-A*02:01 |
 | Peptidic ligand | Nomenclature Committee of the International Union of Biochemistry (IUPAC-IUB)  | SLYNTVATL | SLYNTVATL |
 | Non-peptidic ligand | Chemical Entities of Biological Interest (ChEBI) | α-GalCer | 1-O-(α-D-galactosyl)-N-hexacosanoylphytosphingosine |
 | Post translational modification | Protein Modification Ontology (PSI-MOD) | Acetylation | acetylated residue |
