@@ -3,7 +3,7 @@
 These guidelines were established with the expertise of the members of the NIH Tetramer Facility, laboratory users of such reagents, and database curators tasked with describing such reagents in machine-readable and interoperable digital resources. These minimal nomenclature guidelines for MHC Multimers will ensure that multimer data is presented according to the FAIR principles and is more Findable, Accessible, Interoperable and Reusable. Please see this publication explaining the standard [PMID].
 
 
-**Table 5. Minimal Information about MHC Multimer (MIAMM) components and how they are standardized.**
+**Minimal Information about MHC Multimer (MIAMM) components and how they are standardized.**
 
 | Component | Standardization method | Example | Standardized name |
 | --------- | ---------------------- | ------- | ----------------- |
