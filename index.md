@@ -30,7 +30,7 @@ Modification position within a peptide ligand is to be described by the single l
 
 For assistance following this standard, see the Multimer Validator, a web tool which allows users to either a) parse the full name they generated, and validate that it fulfills the specifications, or b) compose the full name, based on the information added by the user. The tool ensures that the valid ontology terms and nomenclatures are enforced. It can be used by entering multimers into a web form or by uploading a spreadsheet.
 
-For questions or feedback, contact us: <miammhelp@lji.org> [TBC]
+For questions or feedback, contact us: <miamm@lji.org>
 
 
 
