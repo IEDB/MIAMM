@@ -13,7 +13,7 @@ These guidelines were established with the expertise of the members of the NIH T
 | Peptidic ligand | Nomenclature Committee of the International Union of Biochemistry (IUPAC-IUB)  | SLYNTVATL | SLYNTVATL |
 | Non-peptidic ligand | Chemical Entities of Biological Interest (ChEBI) | α-GalCer | 1-O-(α-D-galactosyl)-N-hexacosanoylphytosphingosine |
 | Post translational modification | Protein Modification Ontology (PSI-MOD) | Acetylation | acetylated residue |
-| Modification position | Letter followed by position in ligand | the first leucine in SLYNTVATL | L2/ |
+| Modification position | Letter followed by position in ligand | the first leucine in SLYNTVATL | L2 |
 
 ![MIAMM Table](https://user-images.githubusercontent.com/86632873/123714022-6d5d7700-d82a-11eb-8a59-6cf577908177.PNG)
 
