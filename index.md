@@ -5,6 +5,13 @@ These guidelines were established with the expertise of the members of the NIH T
 
 ### Minimal Information about MHC Multimers (MIAMM) components and how they are standardized.
 
+**Table 5. Minimal Information about MHC Multimer (MIAM) components and how they are standardized.**
+
+| Component      | Standardization method    | Example    | Standardized name   |
+| :------------- | :----------------------:  | ---------: | ------------------: |
+|  MHC molecule | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
 ![MIAMM Table](https://user-images.githubusercontent.com/86632873/123714022-6d5d7700-d82a-11eb-8a59-6cf577908177.PNG)
 
 
