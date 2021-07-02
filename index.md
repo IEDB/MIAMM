@@ -1,6 +1,11 @@
 ## About MIAMM
 
-These guidelines were established with the expertise of the members of the NIH Tetramer Facility, laboratory users of such reagents, and database curators tasked with describing such reagents in machine-readable and interoperable digital resources. These minimal nomenclature guidelines for MHC Multimers will ensure that multimer data is presented according to the FAIR principles and is more Findable, Accessible, Interoperable and Reusable. Please see this publication explaining the standard [PMID].
+These guidelines were established with the expertise of the members of the NIH Tetramer Facility, laboratory users of such reagents, and database curators tasked with describing such reagents in machine-readable and interoperable digital resources. These minimal nomenclature guidelines for MHC Multimers will ensure that multimer data is presented according to the FAIR principles and is more Findable, Accessible, Interoperable and Reusable. Please see this publication explaining the standard [weblink to preprint].
+
+
+See our **Multimer Validator** webtool to validate your multimers
+http://tetramers.iedb.org/
+
 
 
 **Minimal Information about MHC Multimer (MIAMM) components and how they are standardized.**
