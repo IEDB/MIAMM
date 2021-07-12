@@ -35,6 +35,14 @@ For assistance following this standard, see the Multimer Validator, a web tool w
 
 For questions or feedback, contact us: <miamm@lji.org>
 
+| PSI-MOD label | Synonym | PSI-MOD ID |
+| --------- | ---------------------- | ------- | ----------------- |
+| amidated residue | Amidation, AMID | MOD:00674 |
+| 2-pyrrolidone-5-carboxylic acid (Glu) | Pyrrolidone carboxylic acid, PYRE, PCA, pyroglutamic acid | MOD:00420 |
+| 9-fluorenylmethyloxycarbonyl (Fmoc) | Fluorenylmethyloxycarbonyl, FMOC | MOD:01109 |
+| acetylated residue | Acetylation, ACET, AcRes, Acetyl | MOD:02078 |
+| biotinylated residue | Biotin, BIOT, BtnRes, Biotinylation | MOD:01885 |
+
 
 
 1. Vita R, Overton JA, Seymour E, Sidney J, Kaufman J, Tallmadge RL, Ellis S, Hammond J, Butcher GW, Sette A, Peters B. An ontology for major histocompatibility restriction. for major histocompatibility restriction. J Biomed Semantics. 2016 Jan 11;7:1. doi: 10.1186/s13326-016-0045-5. eCollection 2016.
