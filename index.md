@@ -35,6 +35,9 @@ For assistance following this standard, see the Multimer Validator, a web tool w
 
 For questions or feedback, contact us: <miamm@lji.org>
 
+
+**Supplemental Table 1. Common Modifications. Modifications commonly found in multimer ligands standardized using PSI-MOD terminology.**
+
 | PSI-MOD label | Synonym | PSI-MOD ID |
 | ------------- | ------- | ---------- |
 | amidated residue | Amidation, AMID | MOD:00674 |
@@ -43,8 +46,25 @@ For questions or feedback, contact us: <miamm@lji.org>
 | acetylated residue | Acetylation, ACET, AcRes, Acetyl | MOD:02078 |
 | biotinylated residue | Biotin, BIOT, BtnRes, Biotinylation | MOD:01885 |
 | cysteinylation (disulfide with free L-cysteine) | Cysteinylation, CYSTL, SCysCys | MOD:00765 |
-
-
+| deamidated and methyl esterified residue | Deamidation followed by a methylation, DEAME |	MOD:01369 |
+| deamidated residue | Deamidation, DEAM, dNRes, Deamidated	| MOD:00400 |
+| dehydrated residue | Dehydration, DEHY, Dehydrated | MOD:00704 |
+| formylated residue |	Formylation, FORM, FoRes, Formyl	| MOD:00493 |
+| galactosylated residue |	Galactosylation, GAL, GalRes |	MOD:00728 |
+| glucosylated residue |	Glucosylation, GLUC, GlcRes, Glycation |	MOD:00726 |
+| glycosylated residue |	Glycosylation, GLYC, GlycoRes |	MOD:00693 |
+| hydroxylated residue |	Hydroxylation, HYL, HyRes |	MOD:00677 |
+| L-2-aminobutanoic acid (Glu) |	L-Î±-Aminobutyric acid, Abu |	MOD:00819 |
+| L-citrulline |	Citrullination, CITR, Cit, Deamidated |	MOD:00219 |
+| methylated residue |	Methylation, METH, METH, MeRes |	MOD:00427 |
+| myristoylated residue |	Myristoylation, MYRI, MYRI, MyrRes |	MOD:00438 |
+| mono N-acetylated residue |	N-acetylation, NAc, NAcRes, N-Acetyl |	MOD:00408 |
+| oxidized residue |	Oxidation, OX, OxRes |	MOD:00675 |
+| palmitoylated residue |	Palmitoylation|PALM, PALM, PamRes, Palmitoyl |	MOD:00440 |
+| phosphorylated residue |	Phosphorylation, PHOS, PhosRes, Phospho |	MOD:00696 |
+| reduced residue |	Reduction, RED, RedRes |	MOD:01472 |
+| sulfated residue |	Sulfation, SULF, SulfRes, Sulfo |	MOD:00695 |
+| other |	OTH	|
 
 
 1. Vita R, Overton JA, Seymour E, Sidney J, Kaufman J, Tallmadge RL, Ellis S, Hammond J, Butcher GW, Sette A, Peters B. An ontology for major histocompatibility restriction. for major histocompatibility restriction. J Biomed Semantics. 2016 Jan 11;7:1. doi: 10.1186/s13326-016-0045-5. eCollection 2016.
