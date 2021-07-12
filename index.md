@@ -36,7 +36,7 @@ For assistance following this standard, see the Multimer Validator, a web tool w
 For questions or feedback, contact us: <miamm@lji.org>
 
 | PSI-MOD label | Synonym | PSI-MOD ID |
-| --------- | ---------------------- | ------- | ----------------- |
+| ------------- | ------- | ---------- |
 | amidated residue | Amidation, AMID | MOD:00674 |
 | 2-pyrrolidone-5-carboxylic acid (Glu) | Pyrrolidone carboxylic acid, PYRE, PCA, pyroglutamic acid | MOD:00420 |
 | 9-fluorenylmethyloxycarbonyl (Fmoc) | Fluorenylmethyloxycarbonyl, FMOC | MOD:01109 |
