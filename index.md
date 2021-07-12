@@ -42,6 +42,8 @@ For questions or feedback, contact us: <miamm@lji.org>
 | 9-fluorenylmethyloxycarbonyl (Fmoc) | Fluorenylmethyloxycarbonyl, FMOC | MOD:01109 |
 | acetylated residue | Acetylation, ACET, AcRes, Acetyl | MOD:02078 |
 | biotinylated residue | Biotin, BIOT, BtnRes, Biotinylation | MOD:01885 |
+| cysteinylation (disulfide with free L-cysteine) | Cysteinylation, CYSTL, SCysCys | MOD:00765 |
+
 
 
 
