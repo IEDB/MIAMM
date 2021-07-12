@@ -60,7 +60,7 @@ For questions or feedback, contact us: <miamm@lji.org>
 | myristoylated residue |	Myristoylation, MYRI, MYRI, MyrRes |	MOD:00438 |
 | mono N-acetylated residue |	N-acetylation, NAc, NAcRes, N-Acetyl |	MOD:00408 |
 | oxidized residue |	Oxidation, OX, OxRes |	MOD:00675 |
-| palmitoylated residue |	Palmitoylation|PALM, PALM, PamRes, Palmitoyl |	MOD:00440 |
+| palmitoylated residue |	Palmitoylation PALM, PALM, PamRes, Palmitoyl |	MOD:00440 |
 | phosphorylated residue |	Phosphorylation, PHOS, PhosRes, Phospho |	MOD:00696 |
 | reduced residue |	Reduction, RED, RedRes |	MOD:01472 |
 | sulfated residue |	Sulfation, SULF, SulfRes, Sulfo |	MOD:00695 |
