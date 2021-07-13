@@ -36,6 +36,7 @@ For assistance following this standard, see the Multimer Validator, a web tool w
 
 
 
+
 **Common Modifications. Modifications commonly found in multimer ligands standardized using PSI-MOD terminology.**
 
 | PSI-MOD label | Synonym | PSI-MOD ID |
@@ -67,11 +68,20 @@ For assistance following this standard, see the Multimer Validator, a web tool w
 | other |	OTH	|
 
 
-For questions or feedback, contact us: <miamm@lji.org>
+**Edge Cases**
+
+Tethered peptides
 
 
+Chimeric MHC molecules
+
+
+**References**
 1. Vita R, Overton JA, Seymour E, Sidney J, Kaufman J, Tallmadge RL, Ellis S, Hammond J, Butcher GW, Sette A, Peters B. An ontology for major histocompatibility restriction. for major histocompatibility restriction. J Biomed Semantics. 2016 Jan 11;7:1. doi: 10.1186/s13326-016-0045-5. eCollection 2016.
 
 2. Hastings J, Owen G, Dekker A, Ennis M, Kale N, Muthukrishnan V, Turner S, Swainston N, Mendes P, Steinbeck C. (2016). ChEBI in 2016: Improved services and an expanding collection of metabolites. Nucleic Acids Res. 2016 Jan 4;44(D1):D1214-9.
 
 3. Montecchi-Palazzi L, Beavis R, Binz PA, Chalkley RJ, Cottrell J, Creasy D, Shofstahl J, Seymour SL, Garavelli JS. The PSI-MOD community standard for representation of protein modification data. Nat Biotechnol. 2008 Aug;26(8):864-6. doi: 10.1038/nbt0808-864.
+
+
+For questions or feedback, contact us: <miamm@lji.org>
