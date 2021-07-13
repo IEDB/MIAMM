@@ -26,17 +26,17 @@ Peptidic ligands are described using standard single letter abbreviations.
 Non-peptidic ligands are described using Chemical Entities of Biological Interest (ChEBI)[2].
 <https://www.ebi.ac.uk/chebi/>
 
-Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD)[3].
+Post translational modifications of peptide ligands are described using Protein Modification Ontology (PSI-MOD)[3]. A table provided below provides the most commonly used modifications in multimer ligands.
 <https://psidev.info/groups/protein-modifications>
 
 Modification position within a peptide ligand is to be described by the single letter abbreviation of the amino acid that is modified, followed by the position of that amino acid within the peptide (L2).
 
 For assistance following this standard, see the Multimer Validator, a web tool which allows users to either a) parse the full name they generated, and validate that it fulfills the specifications, or b) compose the full name, based on the information added by the user. The tool ensures that the valid ontology terms and nomenclatures are enforced. It can be used by entering multimers into a web form or by uploading a spreadsheet.
 
-For questions or feedback, contact us: <miamm@lji.org>
 
 
-**Supplemental Table 1. Common Modifications. Modifications commonly found in multimer ligands standardized using PSI-MOD terminology.**
+
+**Common Modifications. Modifications commonly found in multimer ligands standardized using PSI-MOD terminology.**
 
 | PSI-MOD label | Synonym | PSI-MOD ID |
 | ------------- | ------- | ---------- |
@@ -65,6 +65,9 @@ For questions or feedback, contact us: <miamm@lji.org>
 | reduced residue |	Reduction, RED, RedRes |	MOD:01472 |
 | sulfated residue |	Sulfation, SULF, SulfRes, Sulfo |	MOD:00695 |
 | other |	OTH	|
+
+
+For questions or feedback, contact us: <miamm@lji.org>
 
 
 1. Vita R, Overton JA, Seymour E, Sidney J, Kaufman J, Tallmadge RL, Ellis S, Hammond J, Butcher GW, Sette A, Peters B. An ontology for major histocompatibility restriction. for major histocompatibility restriction. J Biomed Semantics. 2016 Jan 11;7:1. doi: 10.1186/s13326-016-0045-5. eCollection 2016.
